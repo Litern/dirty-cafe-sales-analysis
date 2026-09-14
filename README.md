@@ -256,8 +256,7 @@ The original dataset is available through Kaggle.
 
 **Litern**
 
-GitHub: https://github.com/KeDataLab
-
+GitHub: https://github.com/Litern
 ---
 
 ## ⭐ If You Find This Project Useful
